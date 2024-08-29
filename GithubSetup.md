@@ -41,3 +41,15 @@ This guide provides step-by-step instructions for installing Git, generating an 
     ```bash
         clip < ~/.ssh/id_ed25519.pub
     ```    
+
+## Step 5: Now press Windows + V in user's system
+- Now copy the ssh value 
+
+## Step 6: Add the SSH Value to Your GitHub Account (Admin Account)
+1. Log in to your GitHub account.
+2. Go to your profile icon in the top right corner and select Settings.
+3. In the left sidebar, click on SSH and GPG keys.
+4. Click the New SSH key button.
+   - In the "Title" field, enter a descriptive name for the key (e.g., "My Laptop SSH Key").
+   - Paste the SSH Value you copied earlier into the "Key" field.
+5. Click on the Add SSH key button to save.
